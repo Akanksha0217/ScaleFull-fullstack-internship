@@ -33,4 +33,4 @@ A simple static HTML project showcasing:
 - List of electronic products (using `<ul>`, `<table>`)
 - Embedded promotional video
 - Navigation links (for About, Contact, etc.)
-  🔗 [Project Folder: `/projects/electronic-shop`](./projects/electronic-shop)
+  🔗 https://github.com/Akanksha0217/Electronic-shop
