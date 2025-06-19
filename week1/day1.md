@@ -11,18 +11,16 @@
   - Ordered list (`<ol>`)
   - Unordered list (`<ul>`)
   - Description list (`<dl>`, `<dt>`, `<dd>`)
-- Using the `<img>` tag to add images
-- Adding hyperlinks using the `<a>` tag
+
 
 ## 🛠️ Work Done
 
-- Created a sample HTML page using lists
-- Practiced inserting images and links in the HTML file
-- Explored semantic structure of a webpage using tags
+-Created a sample HTML page
+- Created a sample HTML page using lists 
+
 
 ## 💡 Notes
 
 - **HTML5** introduces semantic elements like `<header>`, `<footer>`, `<article>`, etc.
 - **Block elements** occupy full width and start on a new line (e.g., `<div>`, `<p>`)
 - **Inline elements** flow within text (e.g., `<span>`, `<a>`, `<img>`)
-- Always use `alt` attribute in images for accessibility
