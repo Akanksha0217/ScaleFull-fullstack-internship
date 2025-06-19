@@ -27,10 +27,15 @@
 - Icon libraries (e.g., Font Awesome) require CDN link in `<head>`
 
 ## 📁 Mini Project: Electronic Shop Website
+A simple static HTML project showcasing a basic structure of a small electronic store.
 
-A simple static HTML project showcasing:
-- Homepage with a welcome message and logo/icon
-- List of electronic products (using `<ul>`, `<table>`)
-- Embedded promotional video
-- Navigation links (for About, Contact, etc.)
+### 🛠️ Features Implemented
+
+- 🏠 **Homepage** with a welcome message and an electronic store logo/icon
+- 🛍️ **Price Page** listing products using a `<table>` element:
+  - Columns for Product Name, Category, and Price
+- 🧾 **About Us Page** explaining the purpose and mission of the store
+- ✉️ **Contact Page** with basic contact form and shop details
+- 🌐 **Navigation bar** on every page for smooth switching between:
+  - Home | Price | About Us | Contact Us
   🔗 https://github.com/Akanksha0217/Electronic-shop
