@@ -19,7 +19,8 @@ Today, I began applying my previous HTML and CSS learning to create a **clone of
 
 ## 🔗 Project Link (Local)
 
-> Link of clone project (runs locally):  
+> Link of clone website('https://themewagon.github.io/FoodMart/index.html')
+> 
 > [`http://127.0.0.1:5501/index1.html`](http://127.0.0.1:5501/index1.html)
 
 > 🔹 Note: This link works only on my local machine using Live Server in VS Code.
