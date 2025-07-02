@@ -56,5 +56,5 @@
 
 ## 🔗 Local Project Link
 
->('https://playful-pastelito-e7d10a.netlify.app/')
+>('https://aquamarine-torrone-7ba461.netlify.app/')
 
