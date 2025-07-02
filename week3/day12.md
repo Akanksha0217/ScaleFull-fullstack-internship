@@ -56,5 +56,5 @@
 
 ## 🔗 Local Project Link
 
->('https://aquamarine-torrone-7ba461.netlify.app/')
+>('https://foodmartclone.netlify.app/')
 
