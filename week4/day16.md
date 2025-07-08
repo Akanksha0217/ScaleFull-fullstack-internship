@@ -28,7 +28,8 @@ Created a fruit showcase webpage using only HTML and CSS. Key features:
        - Captions fade in with opacity: 1
 - use media query to make it responsive
 ## live Demo
-(https://glittery-muffin-e6f41c.netlify.app/)
+(https://fruitgamecss.netlify.app/)
+
 
 ## 💡 Key Learnings
 - Learned how to use filters creatively for UI interaction
