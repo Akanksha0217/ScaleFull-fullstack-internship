@@ -4,7 +4,7 @@
 
 ### 🍦 Project: Natural Ice Cream Website (Clone)
 
-Started working on a **clone of the Natural Ice Cream homepage** using only **HTML** and **CSS**.  
+Started working on a **clone of the Natural Ice Cream Website** using only **HTML** and **CSS**.  
 This is a practice project for layout, structure, and design skills.
 
 ---
@@ -51,7 +51,8 @@ This clone is being created for **learning purposes**, especially to:
 ## 🔜 Next Steps
 
 - Add product showcase cards or featured items
+- Add more internal pages and like them all,style each page with consistent theme (colors, fonts, spacing)
 - Apply hover effects and transitions
 - Use javascript for activing some tags ,button
-- Complete footer section and make it mobile-friendly
+- Make it mobile-friendly
 
