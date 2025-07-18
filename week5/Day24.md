@@ -56,9 +56,6 @@ Today, I worked on creating a simple and responsive Juice Bottle webpage using a
 
 ---
 
-## 🔜 Next Steps
-
-- Add animation and transitions using CSS or Bootstrap utilities  
-- Host the webpage using **Netlify**  
-- Enhance design with icons from **Font Awesome**
+## check live
+Clikeme[('https://velvety-lollipop-0af091.netlify.app/')]
 
