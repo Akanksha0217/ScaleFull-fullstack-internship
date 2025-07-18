@@ -57,5 +57,5 @@ Today, I worked on creating a simple and responsive Juice Bottle webpage using a
 ---
 
 ## check live
-Clikeme[('https://velvety-lollipop-0af091.netlify.app/')]
+https://velvety-lollipop-0af091.netlify.app/
 
