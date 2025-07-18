@@ -1,9 +1,34 @@
-This week mini project
-1)Friut game webiste
+# 📁 Week 4 – Mini Projects Showcase
 
-netify (https://fruitgamecss.netlify.app/)
-2) natural_iceream website clone
-netlify (https://naturalicecreamclone.netlify.app/)
+This week focused on building and deploying creative mini projects using **HTML**, **CSS**. Below are the completed projects with their respective live links and source code.
 
-3) protofoli template page
-   (https://portfoliotemplatewebpage.netlify.app/)
+---
+
+## 1️⃣ 🍓 Fruit Game Website
+
+A fun and interactive fruit image showcase using advanced **CSS filters**, **hover effects**, and **grid layout**.
+
+🔗 **Live Demo**: [fruitgamecss.netlify.app](https://fruitgamecss.netlify.app/)  
+💻 **GitHub Repo**: [github.com/Akanksha0217/fruitGame_](https://github.com/Akanksha0217/fruitGame_?tab=readme-ov-file)
+
+---
+
+## 2️⃣ 🍦 Natural Ice Cream Website (Clone)
+
+A responsive static clone of the **Natural Ice Cream** website, built using HTML and CSS with focus on layout, styling, and multi-page navigation.
+
+🔗 **Live Demo**: [naturalicecreamclone.netlify.app](https://naturalicecreamclone.netlify.app/)  
+💻 **GitHub Repo**: [github.com/Akanksha0217/Naturals_icecream_clone](https://github.com/Akanksha0217/Naturals_icecream_clone)
+
+---
+
+## 3️⃣ 💼 Portfolio Template (Single Page)
+
+A clean and modern **Portfolio Template** designed using HTML, CSS. It includes sections for About Me, Skills, Projects, and Contact Form.
+
+🔗 **Live Demo**: [portfoliotemplatewebpage.netlify.app](https://portfoliotemplatewebpage.netlify.app/)  
+💻 **GitHub Repo**: [github.com/Akanksha0217/portfolio_template_webpage](https://github.com/Akanksha0217/portfolio_template_webpage)
+
+---
+
+> ✅ All projects are responsive and deployed on **Netlify**. Repositories are hosted on **GitHub** with clear structure and code organization.
