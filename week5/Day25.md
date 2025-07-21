@@ -42,4 +42,10 @@ To recreate the Tindog website using **only Bootstrap 5**, HTML, and CSS.
 - Build "Features" section using grid layout and icons  
 - Add Testimonials and Pricing section  
 - Finalize footer and make site responsive for mobile
+---
+---
 
+✅ *Completed this task on July 19, 2025*
+
+- 🔗 **GitHub Repository**: [Tindog Bootstrap Clone](https://github.com/Akanksha0217/Tindog)
+- 🔗 **netlify** :[tindogclone](https://tindogcloneboostrap.netlify.app/)
