@@ -21,7 +21,7 @@ This repository includes **daily learning logs**, **mini-projects**, and **code 
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 Tech Stack & Tools 
 
 - **HTML5, CSS3, JavaScript**
 - Bootstrap, ReactJS (later phase)
