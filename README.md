@@ -28,5 +28,5 @@ This repository includes **daily learning logs**, **mini-projects**, and **code 
 - Node.js, Express.js (backend)
 - MongoDB (database)
 - Git & GitHub for version control
-
+  
 ---
