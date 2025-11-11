@@ -7,7 +7,7 @@ This repository includes **daily learning logs**, **mini-projects**, and **code 
 
 ## 📅 Duration
 
-**Start Date:** June 16, 2025  
+**Start Date:** June 16, 2025   
 **Internship Focus:** Full Stack Development using modern web technologies
 
 --- 
