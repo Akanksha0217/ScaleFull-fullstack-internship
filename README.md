@@ -3,7 +3,7 @@
 Welcome to my internship journey at **Scalefull Technologies**!  
 This repository includes **daily learning logs**, **mini-projects**, and **code snippets** built during my Full Stack Developer internship.
 
----
+--- 
 
 ## 📅 Duration
 
