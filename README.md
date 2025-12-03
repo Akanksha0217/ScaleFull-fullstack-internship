@@ -24,8 +24,8 @@ This repository includes **daily learning logs**, **mini-projects**, and **code 
 ## 🧠 Tech Stack & Tools 
 
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, ReactJS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB,SQL
 - **Version Control**: Git & GitHub  
 - **Deployment**: Netlify, Vercel  
 ---
