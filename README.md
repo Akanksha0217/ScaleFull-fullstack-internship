@@ -15,9 +15,9 @@ This repository includes **daily learning logs**, **mini-projects**, and **code 
 ## 📚 What You'll Find in This Repo
  
 - ✅ Day-wise logs with topics learned, notes, and resources  
-- ✅ Mini-projects applying HTML, CSS, JS, and backend basics  
+- ✅ Mini-projects   
 - ✅ Weekly folders organizing my tasks and practice work  
-- ✅ Final project and demo links (if available)
+- ✅ Final project and demo links 
 
 ---
 
