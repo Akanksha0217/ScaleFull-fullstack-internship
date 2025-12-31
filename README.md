@@ -17,7 +17,7 @@ This repository includes **daily learning logs**, **mini-projects**, and **code 
 - ✅ Day-wise logs with topics learned, notes, and resources  
 - ✅ Mini-projects   
 - ✅ Weekly folders organizing my tasks and practice work  
-- ✅ Final project and demo links 
+- ✅ Final project and demo links  
 
 ---
 
